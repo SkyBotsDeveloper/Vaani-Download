@@ -13,7 +13,10 @@ The Vaani website and this repository should stay aligned.
 
 Once a stable asset naming rule is fixed, the website can point directly to the latest asset URL from GitHub Releases.
 
+Current direct installer URL:
+
+- <https://github.com/SkyBotsDeveloper/Vaani-Download/releases/download/v1.2.3/vaani-ai-1.2.3-setup.exe>
+
 ## Current Public Repo
 
 - <https://github.com/SkyBotsDeveloper/Vaani-Download>
-

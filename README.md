@@ -16,6 +16,7 @@ It is intentionally separate from the private source repository. Public download
 Use the Releases page for the latest stable Windows installer:
 
 - [Vaani Releases](https://github.com/SkyBotsDeveloper/Vaani-Download/releases)
+- [Direct Windows Download](https://github.com/SkyBotsDeveloper/Vaani-Download/releases/download/v1.2.3/vaani-ai-1.2.3-setup.exe)
 
 Current installer naming can stay consistent with the app build, for example:
 
